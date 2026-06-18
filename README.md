@@ -224,6 +224,6 @@ This project is licensed under the MIT License.
 
 **Your Name**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Anushka2234
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn:https://www.linkedin.com/in/anus123/
